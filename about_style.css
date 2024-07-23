@@ -1,0 +1,85 @@
+/* General Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: url("https://cdn.glitch.global/8cc54b43-298c-44bf-bfeb-c0232e9c5ccb/Sprite-0002.png?v=1708810118961")
+    no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+nav .logo img {
+  height: 50px; /* Adjust the height as needed */
+  width: auto; /* Maintain the aspect ratio */
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.content {
+  padding: 2rem;
+  text-align: center;
+}
+
+.description {
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+}
+
+/* Social Links */
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 2rem; /* Increased gap for larger icons */
+  margin-bottom: 2rem;
+}
+
+.social-links a {
+  font-size: 3rem; /* Increased font size for larger icons */
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.social-links a:hover {
+  color: #ddd;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.7);
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .project {
+    width: calc(100% - 1rem);
+  }
+}
+@media (max-width: 768px) {
+    body {
+        background: url("https://cdn.glitch.global/8cc54b43-298c-44bf-bfeb-c0232e9c5ccb/Sprite-0002.png?v=1708810118961") no-repeat fixed;
+          background-color: black;
+       
+    }
+}
