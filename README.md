@@ -1,7 +1,7 @@
 # Hello, I'm Josh :)
 
 <br><br>
-Club Website: barracoders.com
+Club Website: <a href="barracoders.com">barracoders.com</a>
 <br><br>
 you can also find me here:
 <br><br>
