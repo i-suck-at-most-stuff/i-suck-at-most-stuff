@@ -1,13 +1,13 @@
-# Hello, I'm Josh :)
-
+## Hello, I'm Josh :)
+i do stuff sometimes
 <br><br>
 you can find me here:
 <br><br>
-tumblr: i-suck-at-most-stuff
+my portfolio: <a href="https://i-suck-at-most-stuff.github.io">i-suck-at-most-stuff.gtihub.io</a>
 <br><br>
-reddit: u/i-suck-at-most-stuff
+tumblr: <a href="https://www.tumblr.com/isuckatmoststuff">@i-suck-at-most-stuff</a>
 <br><br>
-github: i-suck-at-most-stuff
+reddit: <a href="https://www.reddit.com/user/i-suck-at-most-stuff/">u/i-suck-at-most-stuff</a>
 <br><br>
-itch.io: i-suck-at-most-stuff
+itch.io: <a href="https://i-suck-at-most-stuff.itch.io/">i-suck-at-most-stuff</a>
 <br><br>
