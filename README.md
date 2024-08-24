@@ -33,7 +33,7 @@ Check out more of my projects in the [repositories](https://github.com/i-suck-at
 
 ## My Socials:
 
-- [My Portfolio](https://i-suck-at-most-stuff.gtihub.io)
+- [My Portfolio](https://i-suck-at-most-stuff.github.io)
 - [Tumblr](https://www.tumblr.com/isuckatmoststuff)
 - [Itch.io](https://i-suck-at-most-stuff.itch.io/)
 
