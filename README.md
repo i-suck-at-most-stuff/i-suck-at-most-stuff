@@ -4,13 +4,13 @@ Welcome to my GitHub profile! I'm a passionate developer, student, and enthusias
 
 ## About Me
 
-- 🏫 Student at Beachside High School
-- 💻 Running a coding club called the [Beachside Barracoders](https://barracoders.com)
-- 💾 Member of [Hack Club International](https://hackclub.com)
-- 🌱 Currently learning game development with Godot
-- 🎮 Passionate about creating games, web development, and exploring new technologies
+- Student at Beachside High School
+- Running a coding club called the [Beachside Barracoders](https://barracoders.com)
+- Member of [Hack Club International](https://hackclub.com)
+- Currently learning game development with Godot
+- Passionate about creating games, web development, and exploring new technologies
 
-## 🛠 Skills
+## Skills
 
 - **Languages**: JavaScript, HTML/CSS, Python, Swift
 - **Game Development**: Learning Godot
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer, student, and enthusias
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-suck-at-most-stuff&layout=compact&theme=radical)
 
-## 💡 Projects
+## Projects
 
 Here are a few projects I've been working on:
 
@@ -31,11 +31,11 @@ Here are a few projects I've been working on:
 
 Check out more of my projects in the [repositories](https://github.com/i-suck-at-most-stuff?tab=repositories) section!
 
-## 🤝 My Socials:
+## My Socials:
 
-- 🌐 [My Portfolio](https://i-suck-at-most-stuff.gtihub.io)
-- 🪐 [Tumblr](https://www.tumblr.com/isuckatmoststuff)
-- 📝 [Itch.io](https://i-suck-at-most-stuff.itch.io/)
+- [My Portfolio](https://i-suck-at-most-stuff.gtihub.io)
+- [Tumblr](https://www.tumblr.com/isuckatmoststuff)
+- [Itch.io](https://i-suck-at-most-stuff.itch.io/)
 
 ---
 
