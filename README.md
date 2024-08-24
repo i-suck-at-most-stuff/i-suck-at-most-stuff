@@ -38,8 +38,7 @@ Check out more of my projects in the [repositories](https://github.com/i-suck-at
 - 📝 [Itch.io](https://i-suck-at-most-stuff.itch.io/)
 
 ---
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-suck-at-most-stuff&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=i-suck-at-most-stuff&theme=radical)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=i-suck-at-most-stuff&color=blueviolet)
 
