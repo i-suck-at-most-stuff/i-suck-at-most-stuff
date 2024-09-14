@@ -9,15 +9,16 @@ Welcome to my GitHub profile! I'm a passionate developer, student, and enthusias
 - Member of [Hack Club International](https://hackclub.com)
 - Currently learning game development with Godot
 - Passionate about creating games, web development, and exploring new technologies
-
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=i-suck-at-most-stuff&theme=highcontrast&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
 ## Skills
 
 - **Languages**: JavaScript, HTML/CSS, Python, Swift
 - **Game Development**: Learning Godot
 - **Web Development**: React, Node.js,
 - **Tools & Platforms**: GitHub, Glitch.com, Replit, Itch.io
-- **Other**: UI Design, Project Management 
-
+- **Other**: UI Design, Project Management
+- 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-suck-at-most-stuff&layout=compact&theme=radical) 
 
 ## Projects
