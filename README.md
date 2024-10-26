@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer, student, and enthusias
 - **Web Development**: React, Node.js,
 - **Tools & Platforms**: GitHub, Glitch.com, Replit, Itch.io
 - **Other**: UI Design, Project Management
-- 
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-suck-at-most-stuff&layout=compact&theme=radical) 
 
 ## Projects
