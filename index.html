@@ -1,157 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Josh's Portfolio - Home</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="styles/style.css">
     <link
       rel="icon"
-      href="https://cdn.glitch.global/8cc54b43-298c-44bf-bfeb-c0232e9c5ccb/IMG_6433-04C6C.jpeg?v=1708804011061"
+      href="/images/turtle-logo.jpeg"
       type="image/icon type"
     />
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Portfolio</title>
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
-    />
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <nav>
-      <div class="logo">
-        <img
-          src="https://cdn.glitch.global/8cc54b43-298c-44bf-bfeb-c0232e9c5ccb/IMG_6433-04C6C.jpeg?v=1708804011061"
-        />
-      </div>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-      </ul>
-    </nav>
-    <div class="content">
-      <div class="description">
-        <h1>Welcome to My Projects and Social Media Links</h1>
-        <p>
-          Here you can find links to all my projects and social media profiles.
-        </p>
-      </div>
-      <div class="social-links">
-        <a
-          href="https://www.reddit.com/user/i-suck-at-most-stuff/"
-          class="fab fa-reddit"
-        ></a>
-        <a
-          href="https://www.tumblr.com/isuckatmoststuff"
-          class="fab fa-tumblr"
-        ></a>
-        <a
-          href="https://github.com/i-suck-at-most-stuff"
-          class="fab fa-github"
-        ></a>
-        <a
-          href="https://i-suck-at-most-stuff.itch.io/"
-          class="fab fa-itch-io"
-        ></a>
-        <a
-          href="https://www.instagram.com/i_suck_at_most_stuff/"
-          class="fab fa-instagram"
-        ></a>
-      </div>
-      <div class="projects">
-        <div class="project">
-          <img
-            src="https://cdn.glitch.global/fcf66f6a-28c7-42fd-93db-701424d419ad/Screenshot%20(23).png?v=1696514913734"
-            alt="Project 1"
-          />
-          <h2>Tripwire</h2>
-          <p>
-            Tripwire is a powerful and innovative app that provides users with
-            the ability to detect criminals and sex offenders in their local
-            area. Through a user-friendly interface, tripwire gives you all the
-            information you need to make informed decisions about your safety.
-            You can easily view an offender's photo, address, and crime history.
-          </p>
-          <a href="https://teamtripwire.glitch.me" class="project-link">
-            <span>View Tripwire</span> <i class="fas fa-link"></i>
-          </a>
+</head>
+<body>
+    <div class="container">
+        
+        <div class="profile">
+            <img src="/images/turtle-logo.jpeg" alt="Profile Picture" class="pfp">
+            <div class="info">
+                <h1>Josh Worthington</h1>
+                <div class="links">
+                    <a href="https://github.com/i-suck-at-most-stuff" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="https://i-suck-at-most-stuff.itch.io/" target="_blank"><i class="fab fa-itch-io"></i></a>
+                    <a href="https://www.instagram.com/i_suck_at_most_stuff/" target="_blank"><i class="fab fa-instagram"></i></a>
+                    
+                  <!-- Add this once i turn 16 <a href="https://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>-->
+                </div>
+            </div>
         </div>
-        <div class="project">
-          <img
-            src="https://cdn.glitch.global/8cc54b43-298c-44bf-bfeb-c0232e9c5ccb/barracoders_home.png?v=1721438525147"
-            alt="Project 2"
-          />
-          <h2>Beachside Barracoders Homepage</h2>
-          <p>
-            The Beachside Barracoders is a vibrant school coding club where
-            students come together to explore the exciting world of computer
-            programming. Members of all skill levels collaborate on projects,
-            learn new coding languages, and participate in competitions. With a
-            focus on creativity, teamwork, and innovation, the Beachside
-            Barracoders foster a supportive environment that encourages students
-            to develop their coding skills while having fun.
-          </p>
-          <a href="https://barracoders.com" class="project-link">
-            <span>View Project</span> <i class="fas fa-link"></i>
-          </a>
+
+        <hr class="divider">
+
+        
+        <div class="description">
+            <p>Hi, I&#39;m Josh! I know HTML, CSS, and JavaScript, and I'm currently learning Swift, Python, and Godot. I enjoy creating websites and developing short games. <br><br> One of my achievements is developing a <a href="https://teamtripwire.glitch.me" class="squiggly-link">local offender tracker called Tripwire</a>, which won a school competition. I also run the <a href="https://barracoders.com/" class="squiggly-link">Beachside Barracoder's coding club</a>, where we collaborate on various projects, and I'm a member of <a href="https://hackclub.com/" class="squiggly-link">Hack Club International.</a> I&#39;m excited to continue my coding journey and explore new possibilities!</p></div>
+            <br>
+            <br>
+            
+            <p>What I'm Listening To:</p>
+            <div class="newcenter">
+            <div class="now-playing" id="nowPlaying">
+                <p>Loading now playing...</p>
+              </div>
+            </div>
+        <hr class="divider">
+
+        
+        <div class="tabs">
+            
+            <a href="/projects.html">Projects</a>
+            <a href="#">More</a>
         </div>
-        <div class="project">
-          <img
-            src="https://cdn.glitch.global/8cc54b43-298c-44bf-bfeb-c0232e9c5ccb/Screenshot%202024-07-19%20212808.png?v=1721438912515"
-            alt="Project 2"
-          />
-          <h2>Random Song From Your Bad Taste</h2>
-          <p>
-            Guess if this song is from your playlist or just some random song. You
-            can also be the judge if my taste in music is good or not lol.
-            Please note this project is still in develpoment and sometimes some
-            spotify links do not work for some reason. I'll figure it out one
-            day.
-          </p>
-          <a
-            href="https://random-song-your-bad-taste.glitch.me/"
-            class="project-link"
-          >
-            <span>View Project</span> <i class="fas fa-link"></i>
-          </a>
-        </div>
-        <div class="project">
-          <img
-            src="https://cdn.glitch.global/8cc54b43-298c-44bf-bfeb-c0232e9c5ccb/e1d9cb2e-bac6-42d0-a2af-3e4ffc3f1ed1-image.png?v=1722379453261"
-            alt="Project 1"
-          />
-          <h2>Think Before You Speak Hate</h2>
-          <p>
-            A littlle website i made in a few hours based off that one meme,you can customize the flag and character you want. Made to get a couple laughs and to take a stand against hate speech, no matter what it is or who its directed to.
-          </p>
-          <a href="https://think-before-you-speak-hate.glitch.me/" class="project-link">
-            <span>View Project</span> <i class="fas fa-link"></i>
-          </a>
-        </div>
-        <div class="project">
-          <img
-            src="https://cdn.glitch.global/8cc54b43-298c-44bf-bfeb-c0232e9c5ccb/Screenshot%202024-07-19%20213146.png?v=1721439124213"
-            alt="Project 2"
-          />
-          <h2>Beachside Sports Reporting</h2>
-          <p>
-            Beachside Sports Reporting, or BSR, was founded in 2023 The goal of
-            the club was originally to promote Beachside Athletics. In our first
-            year, we were able to build a strong team with over 20 members!
-            BSR's goal for the following year is to create quality and accurate
-            content that relates to sports at Beachside High. Beachside Sports
-            Reporting is the official sports news source at Beachside High. We
-            are always pushing our selves to be better each day. Let's go
-            Barracudas!
-          </p>
-          <a href="https://beachsidesportsreporting.com" class="project-link">
-            <span>View Project</span> <i class="fas fa-link"></i>
-          </a>
-        </div>
-        <!-- Add more projects as needed -->
-      </div>
     </div>
-    <br />
-    <br />
-    <br />
-    <footer>Made by i-suck-at-most-stuff</footer>
-  </body>
+
+    
+    <footer>
+        <p>Made by Joshua Worthington</p>
+    </footer>
+    <script>
+        const username = 'JoshIsYes'; // Replace with your Last.fm username
+        const apiKey = '152dd7341991a250c5e0b7092879abd9';    // Replace with your Last.fm API key
+        const apiUrl = `https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=${username}&api_key=${apiKey}&format=json&limit=1`;
+      
+        async function fetchNowPlaying() {
+    try {
+      const response = await fetch(apiUrl);
+      const data = await response.json();
+
+      // Check if there's a recent track and if it's currently playing
+      const track = data.recenttracks.track[0];
+      const nowPlayingDiv = document.getElementById('nowPlaying');
+      
+      if (track && track['@attr'] && track['@attr'].nowplaying) {
+        const artist = track.artist['#text'];
+        const songTitle = track.name;
+        const albumCover = track.image[2]['#text'] || ''; // Medium size image
+
+        nowPlayingDiv.innerHTML = `
+          <img src="${albumCover}" alt="Album cover">
+          <div class="track-info">
+            <p class="song-title">${songTitle}</p>
+            <p class="artist-name">${artist}</p>
+          </div>
+        `;
+      } else {
+        nowPlayingDiv.innerHTML = `<p>No song currently playing</p>`;
+      }
+    } catch (error) {
+      console.error('Error fetching now playing data:', error);
+      document.getElementById('nowPlaying').innerHTML = `<p>Unable to load now playing data</p>`;
+    }
+  }
+
+  // Fetch now playing data every 30 seconds
+  fetchNowPlaying();
+  setInterval(fetchNowPlaying, 30000);
+      </script>
+</body>
 </html>
+
