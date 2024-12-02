@@ -1,64 +1,32 @@
-# Hello, I'm Josh :)
+<h1 align="center">Hello, I'm Josh :)</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer, student, hackclub club leader and enthusiast in all things tech. I love creating projects that merge creativity and technology, and I'm always looking to learn new skills and collaborate with others.</h3>
 
-Welcome to my GitHub profile! I'm a passionate developer, student, and enthusiast in all things tech. I love creating projects that merge creativity and technology, and I'm always looking to learn new skills and collaborate with others.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-suck-at-most-stuff&label=Profile%20views&color=0e75b6&style=flat" alt="i-suck-at-most-stuff" /> </p>
 
-[Check out my full portfolio for more](https://joshworthington.barracoders.com)
+- 🔭 View all my projects on [My Static Portfolio](https://i-suck-at-most-stuff.github.io)
 
-## About Me
+- ⌚ Currently working on an Interactive Portfolio
 
-- Student at Beachside High School
-- Running a coding club called the [Beachside Barracoders](https://barracoders.com)
-- Member of [Hack Club International](https://hackclub.com)
-- Currently learning game development with Godot
-- Passionate about creating games, web development, and exploring new technologies
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=i-suck-at-most-stuff&theme=highcontrast&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
-## Skills
+- 🌱 I’m currently learning **C** and **Godot** 
 
-- **Languages**: JavaScript, HTML/CSS, Python, Swift
-- **Game Development**: Learning Godot
-- **Web Development**: React, Node.js,
-- **Tools & Platforms**: GitHub, Glitch.com, Replit, Itch.io
-- **Other**: UI Design, Project Management
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-suck-at-most-stuff&layout=compact&theme=radical) 
-### 🖌️ Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+- 👯 Visit my Coding Club's [Website](https://github.com/Barracoders/barracoders)
 
-### 👾 Languages and Frameworks
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- 📝 My Blog/RSS: Coming Soon
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/i-suck-at-most-stuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="i-suck-at-most-stuff" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/josh-worthington-bhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josh-worthington-bhs" height="30" width="40" /></a>
+<a href="https://instagram.com/i-suck-at-most-stuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i+suck_at_most_stuff" height="30" width="40" /></a>
+</p>
 
-### ✍️ Editors
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Replit](https://img.shields.io/badge/replit-667881.svg?style=for-the-badge&logo=replit&logoColor=white)
-![Glitch](https://img.shields.io/badge/glitch-667881.svg?style=for-the-badge&logo=glitch&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 algin="left">Github Stats:</h3>
 
-
-## Projects
-
-Here are a few projects I've been working on:
-
-- **Barracoders Club Website** - The website for the club i run.
-- **My Portfolio** - Working on a interactive one, right now just a static on is running.
-- **Spotify Playlist Game** - A web game that challenges users to guess whether a displayed song is from their playlist.
-- **A Bunch of Random Meme Websites** - I work on stuff I feel like and when an idea pops into my head I make it.
-
-Check out more of my projects in the [repositories](https://github.com/i-suck-at-most-stuff?tab=repositories) section!
-
-## My Socials:
-
-- [My Portfolio](https://i-suck-at-most-stuff.github.io)
-- [Tumblr](https://www.tumblr.com/isuckatmoststuff)
-- [Itch.io](https://i-suck-at-most-stuff.itch.io/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-suck-at-most-stuff&show_icons=true&locale=en&layout=compact" alt="i-suck-at-most-stuff" /></p>
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=i-suck-at-most-stuff&color=blueviolet)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-suck-at-most-stuff&" alt="i-suck-at-most-stuff" /></p>
 
