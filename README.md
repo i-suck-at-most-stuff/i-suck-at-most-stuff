@@ -11,7 +11,6 @@
 
 - 👯 Visit my Coding Club's [Website](https://github.com/Barracoders/barracoders)
 
-- 📝 My Blog/RSS: Coming Soon
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +28,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-suck-at-most-stuff&" alt="i-suck-at-most-stuff" /></p>
+
+<h3>My Spotify:</h3>
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gfbqbz2nxkljqdtcou6vx6lpbm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)]]
 
